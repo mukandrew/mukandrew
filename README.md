@@ -19,4 +19,4 @@ I'm 27 years old, an Android Developer for five years, studing to do "if's" for 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukandrew&layout=compact&theme=tokyonight)
 
-<!-- [![mukandrew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mukandrew&layout=compact)](https://github.com/mukandrew) -->
+[![mukandrew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mukandrew&layout=compact&theme=tokyonight)](https://github.com/mukandrew)
