@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:murilloandrew@gmail.com)](mailto:murilloandrew@gmail.com)
 
 
-I'm 27 years old, an Android Developer for five years, studing to do "if's" for 8 years!
+I'm 27 years old, an Android Developer, studing to do "if's" for 8 years!
 
 - 🔭 I’m currently working on [MLSE](https://github.com/mlsedigital) Android Project through [META](https://digital.meta.com.br/)
 - 🤖 I’m currently learning the deep in Android to be an expertize to take a Android Certificate
