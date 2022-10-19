@@ -6,7 +6,7 @@
 
 I'm 27 years old, an Android Developer, studing to do "if's" for 8 years!
 
-- 🔭 I’m currently working on [GFT Brazil](https://www.gft.com/) as Android Developer
+- 🔭 I’m currently working on [Getnet](https://site.getnet.com.br/institucional/) as Android Developer
 - 🤖 I’m currently learning the deep in Android to be an expertize to take a Android Certificate
 
 ### loving
